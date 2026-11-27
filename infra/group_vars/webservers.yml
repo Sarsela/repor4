@@ -1,0 +1,3 @@
+app_name: Hexlet
+root_dir: /var/www/hexlet
+nginx_port: 80

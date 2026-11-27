@@ -1,0 +1,2 @@
+server_name: web2
+nginx_port: 8080
